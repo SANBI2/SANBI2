@@ -44,7 +44,7 @@ In the meantime, browse our repositories [here](https://github.com/SANBI2?tab=re
 
 We’re always open to collaboration and partnerships. Whether you're looking for a custom software solution, a technical partner, or want to contribute to our open-source projects — let’s talk!
 
-📧 Contact us at: `sanbisolutions@gmail.com`  
+📧 Contact us at: `sanbi.solutions@gmail.com`  
 🌍 Website: [www.sanbi.com](https://sanbi-solutions.vercel.app/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sanbi-55229b2b8/) / Twitter / [github](https://github.com/SANBI2)
 
