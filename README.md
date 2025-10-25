@@ -1,4 +1,4 @@
-# SANBI · Software and Network-Based Innovations
+# SANBI · Software and Network-Based Innovations.
 
 Welcome to the official GitHub organization for **SANBI** – dedicated to building innovative software solutions and robust network-based systems that empower businesses, institutions, and individuals.
 
